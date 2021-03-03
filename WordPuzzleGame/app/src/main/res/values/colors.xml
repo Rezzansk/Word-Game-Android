@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e53935</color>
+    <color name="colorPrimaryDark">#ab000d</color>
+    <color name="colorAccent">#ef5350</color>
+    <color name="beyaz">#ffff</color>
+    <color name="gri">#ede7f6</color>
+    <color name="siyah">#000000</color>
+    <color name="sari">#FFC107</color>
+</resources>
